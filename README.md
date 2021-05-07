@@ -2,7 +2,7 @@
 
 [Documentation](https://eyecloudai.github.io/openncc)  
 [技术文档](http://eyecloud.gitee.io/openncc)  
-
+[CDK](https://github.com/EyecloudAi/openncc)  
 
 ### Support
 
